@@ -1,0 +1,6 @@
+character_name = "John"
+character_age = "35"
+is_male = True
+
+print("Hi, my bame is" + " " + character_name + ".")
+print("I am" + " " + character_age + ".")
